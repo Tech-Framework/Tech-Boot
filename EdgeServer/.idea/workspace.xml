@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="59342583-3229-48d0-b79c-22630cb1c97c" name="Default Changelist" comment="" />
+    <list default="true" id="59342583-3229-48d0-b79c-22630cb1c97c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../AuthServer/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/../AuthServer/.idea/.name" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AuthServer/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../AuthServer/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DiscoveryServer/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/../DiscoveryServer/.idea/.name" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ResourceServer/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/../ResourceServer/.idea/.name" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,34 +24,21 @@
       </list>
     </option>
   </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>parameter</find>
-      <find>favicon.ico</find>
-      <find>:</find>
-      <find>authenticationScheme</find>
-      <find>retrieveToken</find>
-      <find>stateMandatory</find>
-      <find>extractor</find>
-      <find>check</find>
-      <find>token</find>
-      <find>/token</find>
-    </findStrings>
-  </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="420" />
-    <option name="y" value="36" />
-    <option name="width" value="1890" />
-    <option name="height" value="960" />
-  </component>
+  <component name="ProjectId" id="1WRxEItiJZ0SV9gK0yYNIFX9hO8" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../010-Basic/140-SpringBootExampleTimeZone" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Problems" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -52,7 +46,7 @@
   <component name="RunManager">
     <configuration name="Appl" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.techoffice.example.Appl" />
-      <module name="SpringbootExample" />
+      <module name="EdgeServer" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.techoffice.example.*" />
@@ -93,6 +87,48 @@
       <updated>1562595646713</updated>
     </task>
     <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="368" y="10" key="#Appl" timestamp="1579126291528">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="368" y="10" key="#Appl/0.0.1280.680@0.0.1280.680" timestamp="1579126291528" />
+    <state x="421" y="100" key="FileChooserDialogImpl" timestamp="1583110353070">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="100" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1583110353070" />
+    <state width="1237" height="115" key="GridCell.Tab.0.bottom" timestamp="1583110452705">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="115" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1583110452705" />
+    <state width="1237" height="115" key="GridCell.Tab.0.center" timestamp="1583110452705">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="115" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1583110452705" />
+    <state width="1237" height="115" key="GridCell.Tab.0.left" timestamp="1583110452705">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="115" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1583110452705" />
+    <state width="1237" height="115" key="GridCell.Tab.0.right" timestamp="1583110452705">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="115" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1583110452705" />
+    <state width="1237" height="115" key="GridCell.Tab.1.bottom" timestamp="1583110452421">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="115" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1583110452421" />
+    <state width="1237" height="115" key="GridCell.Tab.1.center" timestamp="1583110452421">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="115" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1583110452421" />
+    <state width="1237" height="115" key="GridCell.Tab.1.left" timestamp="1583110452421">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="115" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1583110452421" />
+    <state width="1237" height="115" key="GridCell.Tab.1.right" timestamp="1583110452421">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="115" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1583110452421" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

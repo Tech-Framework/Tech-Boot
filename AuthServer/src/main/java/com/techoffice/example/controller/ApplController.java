@@ -10,7 +10,7 @@ public class ApplController {
     @GetMapping("/")
     @ResponseBody
     public String home(){
-        return "Hello World";
+        return "Auth Server";
     }
 
 }
